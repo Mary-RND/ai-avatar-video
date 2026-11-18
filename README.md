@@ -63,6 +63,9 @@
 | **Марина и ИИ-коллега**, 49 с | диалог: живой человек чередуется с ИИ-аватаром, версия с заставкой | [1080p](https://github.com/Mary-RND/ai-avatar-video/releases/download/v1.0/01-marina-i-ai-dialog_1080p.mp4) · [720p](https://github.com/Mary-RND/ai-avatar-video/releases/download/v1.0/01-marina-i-ai-dialog_720p.mp4) |
 | **Цифровой двойник**, 29 с | Марина одна: клон по фото и голосу, без съёмочного дня | [1080p](https://github.com/Mary-RND/ai-avatar-video/releases/download/v1.0/02-cifrovoy-dvoynik_1080p.mp4) · [720p](https://github.com/Mary-RND/ai-avatar-video/releases/download/v1.0/02-cifrovoy-dvoynik_720p.mp4) |
 
+Все файлы одним списком — на странице релиза
+[v1.0 «Видео-примеры»](https://github.com/Mary-RND/ai-avatar-video/releases/tag/v1.0).
+
 > GitHub не проигрывает MP4 в браузере: ссылка скачивает файл, дальше он открывается
 > в плеере. Для просмотра с телефона берите версию 720p (5–8 МБ) — качается быстро,
 > на экране телефона неотличима от 1080p.
